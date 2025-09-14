@@ -1,7 +1,0 @@
-{
-    "name": "react-softuni",
-    "private": true,
-    "workspaces": [
-        "introductionToReactJS"
-    ]
-}
